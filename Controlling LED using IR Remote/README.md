@@ -37,19 +37,3 @@ We will learn how to use IR remote
 - Press the red power button on IR remote.
 - Observer changes on LED light. 
 
-## Output
-
-[circuit diagram]:    https://github.com/vaishnavighiradkar/LED-controll-using-IR-remote/blob/main/Controlling%20LED%20Using%20IR%20Remote/Images/Circuit%20Diagram.png
-
-
-[Simulation Video]: https://github.com/vaishnavighiradkar/LED-controll-using-IR-remote/blob/main/Controlling%20LED%20Using%20IR%20Remote/Images/Simulation%20Video.mp4
-
-[ Source code ] : https://github.com/vaishnavighiradkar/LED-controll-using-IR-remote/blob/main/Controlling%20LED%20Using%20IR%20Remote/circuitcode.ino
-
-
-## Authors
-
-[Vaishnavi Ghiradkar] : https://github.com/vaishnavighiradkar
-[Sarthak S Kumar] : https://github.com/SarthakSKumar
-
-
