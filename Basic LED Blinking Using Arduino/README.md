@@ -1,4 +1,4 @@
-# LED Control Using Potentiometer
+# LED Control Using Arduino
 
 ## AIM:
 
