@@ -24,13 +24,9 @@ when potentiometer is rotated, value is stored in a variable and according to th
 # Setup 
 Connect the circuit diagram as shown in the image and press the simulation button then rotate potentiometer to change the brightness of Led
 
-# Screenshots
-![](Gallery/Led-Brightness-Control1.png)
-<br>
+
 # Output
 
 Output video and image is added in the Gallery folder
 <br>
 
-# Author
-Nitishkumar J G
