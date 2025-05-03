@@ -29,18 +29,8 @@ On or Off State of LED can be controlled using the switch.
 
 - Assemble the circuit as shown below.
 - Make sure to connect one end of both LED and switch to ground(i.e. GND)
-- Upload the code provided [here](https://github.com/shreya024/IoT-Spot/blob/main/Arduino/LED%20Control%20using%20Switch/led_control_using_switch.ino)
+- Upload the code
 - Run to see the project in action!
 
 ---
 
-## Output:
-
-[Simulation Video](https://github.com/shreya024/IoT-Spot/blob/main/Arduino/LED%20Control%20using%20Switch/Images/led_control_using_switch.mp4)
-![Tinkercad Circuit](https://github.com/shreya024/IoT-Spot/blob/main/Arduino/LED%20Control%20using%20Switch/Images/led_control_using_switch.png)
-
----
-
-## Author:
-
-[Shreya Ghosh](https://github.com/shreya024)
